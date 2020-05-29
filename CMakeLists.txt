@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 3.16)
-project(2d_problem)
+project(2d_closest_pair)
 
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(include)
 
-add_executable(2d_problem
+add_executable(2d_closest_pair
     source/include/2d_problem.h
     source/include/merge_sort.h
     source/include/point.h
