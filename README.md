@@ -8,11 +8,11 @@ This algorithm will find the closest pair of points in a list of 2 dimensional p
 
 ## Installation
 
-    `git clone git@github.com:ThangMinhCao/ClosestPair2D.git`
-    `cd ClosestPair2D`
-    `cmake .`
-    `make`
+    git clone git@github.com:ThangMinhCao/ClosestPair2D.git
+    cd ClosestPair2D
+    cmake .
+    make
 
   Then, to run the program:
 
-    `./2d_closest_pair`
+    ./2d_closest_pair
